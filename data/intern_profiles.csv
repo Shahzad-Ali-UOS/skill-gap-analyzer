@@ -1,0 +1,5 @@
+intern_id,name,enrolled_track,skills,proficiency_levels,completed_hours
+INT-101,Hamza Tariq,Machine Learning,"python, pandas, numpy, scikit-learn, git","python:4, pandas:4, numpy:3, scikit-learn:3, git:3",85
+INT-102,Ayesha Bilal,Backend Systems,"python, django, rest api, postgresql, git","python:4, django:4, rest api:3, postgresql:3, git:3",92
+INT-103,Bilal Khan,Data Analytics & BI,"sql, power bi, excel, data visualization","sql:3, power bi:4, excel:4, data visualization:3",70
+INT-104,Zainab Arshad,Cloud & DevOps,"linux, bash, git, docker","linux:3, bash:3, git:3, docker:2",65
